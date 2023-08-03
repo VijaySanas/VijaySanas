@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Vijay Sanas</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<p align="left"> <a href="https://twitter.com/vijay sanas" target="blank"><img src="https://img.shields.io/twitter/follow/vijay sanas?logo=twitter&style=for-the-badge" alt="vijay sanas" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img src="https://img.shields.io/twitter/follow/VIJAY SANAS?logo=linkedin&style=for-the-badge" alt="vijay-sanas-2056b3253" /></a> </p>
 
 - 🔭 I’m currently working on **Password Generator**
 
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vijay sanas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vijay sanas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
 <a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay.sanas_" height="30" width="40" /></a>
 </p>
