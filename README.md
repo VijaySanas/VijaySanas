@@ -1,4 +1,5 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif?w=1024)](https://silentkiller6.io)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=VIJAY%20SANAS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=-Data%20Analyst&descAlignY=55&descAlign=80)
+
 <h1 align="center">Hi , I'm Vijay Sanas</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
