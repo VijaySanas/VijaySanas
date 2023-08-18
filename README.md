@@ -34,7 +34,7 @@
 
 ### Internships
 
-[<img align="left" height="94px" width="94px" alt="CodSoft" src="?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
+[<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
 
 **CodSoft Internship** \
 [**CodSoft Internship**](https://www.codsoft.in/) • Virtual \
