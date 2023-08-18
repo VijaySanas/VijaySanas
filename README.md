@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;I'm+B.Tech+Student;Proficient+in+programming+languages;like+SQL,+Excel,+Python,+POWER+BI)](https://git.io/typing-svg)
 
-<h1 align="center"></h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h3 align="center">A Passionate Backend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img src="https://img.shields.io/twitter/follow/VIJAY SANAS?logo=linkedin&style=for-the-badge" alt="vijay-sanas-2056b3253" /></a> </p>
@@ -31,4 +31,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+### Internships
+
+[<img align="left" height="94px" width="94px" alt="CodSoft" src="?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
+
+**CodSoft Internship** \
+[**CodSoft Internship**](https://www.codsoft.in/) • Virtual \
+Languages & Technologies: `Python`\
+<br/>
+<br/>
 
