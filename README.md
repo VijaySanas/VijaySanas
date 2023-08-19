@@ -1,7 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=VIJAY%20SANAS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=-Data%20Analyst&descAlignY=55&descAlign=80)
 
+<p align="left">
+<a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
+<a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay.sanas_" height="30" width="40" /></a>
+ <a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="" alt="vijay.sanas_" height="30" width="40" /></a>
+</p>
+
 ![SQL](https://img.shields.io/badge/SQL-3776AB?logo=sql&logoColor=fff&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+![Python](https://img.shields.io/badge/Python-F2C811?logo=python&logoColor=fff&style=flat-square)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=fff&style=flat-square)
