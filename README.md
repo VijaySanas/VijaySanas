@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=VIJAY%20SANAS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=-Data%20Analyst&descAlignY=55&descAlign=80)
 
 <p align="left">
+<a href="vijay.sanas55@gmail.com" target="blank"><img align="center" src="gmail logo.png" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
-<a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay.sanas_" height="30" width="40" /></a>
  <a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="" alt="vijay.sanas_" height="30" width="40" /></a>
 </p>
 
