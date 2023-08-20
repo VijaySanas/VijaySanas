@@ -17,67 +17,22 @@ Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%<
 
 [<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
 
-[**CodSoft Internship**](https://www.codsoft.in/) (Python Programming Intern)
-<p>&nbsp;Languages & Technologies: Python <br>
-- Developed GUI-based applications using Python and Tkinter.<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;- Contributed to Real World Python Projects.<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;- Implemented New Features and Improved User Interfaces.</p>
+[**CodSoft Internship**](https://www.codsoft.in/) (Python Programming Intern)<br>
+<p>Languages & Technologies:- Python</p>
+<p></p>
+<h1>Projects</h1>
+<b>Attendance System App</b>
+(Apr 2021 - Jun 2021)
+<br>https://ijarcce.com/wp-content/uploads/2021/06/IJARCCE.2021.10639.pdf
 
+<br>The aim of developing an attendance system is to computerize the traditional way of taking attendance. Another purpose for developing this software is to get the report automatically at the end of the session or in between sessions. To overcome the drawbacks of the prevailing system, the proposed system has evolved.
 
-
-![Python](https://img.shields.io/badge/Python-F2C811?logo=python&logoColor=fff&style=flat-square)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=fff&style=flat-square)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysanas&layout=pie)](https://github.com/vijaysanas/github-readme-stats)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;I'm+B.Tech+Student;Proficient+in+programming+languages;like+SQL,+Excel,+Python,+POWER+BI)](https://git.io/typing-svg)
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-<p align="left"> <a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img src="https://img.shields.io/twitter/follow/VIJAY SANAS?logo=linkedin&style=for-the-badge" alt="vijay-sanas-2056b3253" /></a> </p>
-
-- 🔭 I’m currently working on **Password Generator**
-
-- 🌱 I’m currently learning **MS Excel**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **vijaysanas457@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
-<a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vijay.sanas_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-### Internships
-
-[<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
-
-**CodSoft Internship** \
-[**CodSoft Internship**](https://www.codsoft.in/) • Virtual \
-Languages & Technologies: `Python`\
-<br/>
-<br/>
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img height="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:vijay.sanas55@gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+<h1>Skills</h1>
+<p><b>Hard Skills</b><br>
+Python (Intermediate)<br>
+MS Excel (Beginner)<br>    
+HTML (Beginner)<br></p>
+<p><b>Soft Skills</b><br>
+Adaptability<br>
+Collaboration<br></p>
 
