@@ -20,6 +20,7 @@ Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%<
 [**CodSoft Internship**](https://www.codsoft.in/) (Python Programming Intern)<br>
 <p>Languages & Technologies:- Python</p>
 <p></p>
+
 <h1>Projects</h1>
 <b>Attendance System App</b>
 (Apr 2021 - Jun 2021)
