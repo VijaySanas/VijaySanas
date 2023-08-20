@@ -1,12 +1,30 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=VIJAY%20SANAS&fontSize=90&animation=fadeIn&fontAlignY=38&desc=-Data%20Analyst&descAlignY=55&descAlign=80)
 
-<p align="left">
-<a href="vijay.sanas55@gmail.com" target="blank"><img align="center" src="gmail logo.png" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijay-sanas-2056b3253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-sanas-2056b3253" height="30" width="40" /></a>
- <a href="https://instagram.com/vijay.sanas_" target="blank"><img align="center" src="" alt="vijay.sanas_" height="30" width="40" /></a>
-</p>
++91 9137051056
 
-![SQL](https://img.shields.io/badge/SQL-3776AB?logo=sql&logoColor=fff&style=flat-square)
+vijay.sanas55@gmail.com
+
+https://github.com/VijaySanas
+
+https://www.linkedin.com/in/vijay-sanas-2056b3253/
+<h1>Educational Details</h1>
+<p>B.Tech, Information Technology<br>                         
+Bharati Vidyapeeth (Deemed To Be University) (2021 – Ongoing)</p>  
+<p>Diploma, Computer Technology<br>                        
+Bharati Vidyapeeth College of Engineering (2018 – 2021, Percentage: <b>86.63%</b>)</p>
+
+<h1>Internships</h1>
+
+[<img align="left" height="85px" width="110px" alt="CodSoft" src="codsoft logo.png?raw=true"/>]([https://www.codsoft.in/](https://www.codsoft.in/))
+
+[**CodSoft Internship**](https://www.codsoft.in/) (Python Programming Intern)
+<p>&nbsp;Languages & Technologies: Python <br>
+- Developed GUI-based applications using Python and Tkinter.<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;- Contributed to Real World Python Projects.<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;- Implemented New Features and Improved User Interfaces.</p>
+
+
+
 ![Python](https://img.shields.io/badge/Python-F2C811?logo=python&logoColor=fff&style=flat-square)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=flat-square)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat-square)
@@ -60,6 +78,6 @@ Languages & Technologies: `Python`\
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
 <a href="mailto:vijay.sanas55@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 
